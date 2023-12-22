@@ -22,7 +22,8 @@ This helps us keep track of deployed model performance and number of successful/
 
 
 Consume Model Endpoints: After deploying the model, a REST endpoint is generated and this enables other services to interact with our deployed model. We can send requests to the deployed model and get responses (predictions).
-![Uploading image.png…]()
+![image](https://github.com/Aakanksha743/Project2/assets/151511734/52f4edb3-7d14-4f8b-ab7f-db6c3fb2125a)
+
 
 Create and Publish a Pipeline: Using the Azure Python SDK with the aid of a Jupyter Notebook, we can create and publish a pipeline. 
 This requires a config.json file to be present in the working directory. Using pipelines, we can automate the whole process of training and deploying our model.
