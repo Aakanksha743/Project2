@@ -27,3 +27,5 @@ Consume Model Endpoints: After deploying the model, a REST endpoint is generated
 
 Create and Publish a Pipeline: Using the Azure Python SDK with the aid of a Jupyter Notebook, we can create and publish a pipeline. 
 This requires a config.json file to be present in the working directory. Using pipelines, we can automate the whole process of training and deploying our model.
+Scrrencastlink(video)
+https://www.youtube.com/watch?v=-6MKtXqHA4k
